@@ -1,4 +1,4 @@
-fhand = open('test.txt')
+fhand = open('ex0802test.txt')
 count = 0
 for line in fhand:
     words = line.split()
