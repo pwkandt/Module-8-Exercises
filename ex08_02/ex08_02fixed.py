@@ -1,4 +1,3 @@
-
 fhand = open('ex0802test.txt')
 count = 0
 for line in fhand:
