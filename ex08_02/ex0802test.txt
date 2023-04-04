@@ -1,0 +1,3 @@
+From Parker
+
+This file causes an error because the print statement in the code calls to print the item in each list at position 2, or the 3rd word. The above line only has 2 words which causes the resulting list to only have items in position 0 and 1.
